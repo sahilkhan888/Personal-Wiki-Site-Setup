@@ -11,7 +11,7 @@ defaults:
     scope:
       path: ""
     values:
-      twitter_username: "your username"
+      twitter_username: "@Sahilkh15740867"
       ga_id: "Your google analytics id"
     scope:
       path: "wiki/" # an empty string here means all files in the project
